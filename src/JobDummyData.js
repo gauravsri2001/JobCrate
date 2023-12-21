@@ -11,7 +11,7 @@ export default [
         job_link: "https://www.apple.com/careers/in/"
     },
     {
-        id:1,
+        id:2,
         postedOn: '2023-10-24',
         title: 'Frontend Developer',
         company: 'Accenture',
@@ -22,7 +22,7 @@ export default [
         job_link: "https://www.accenture.com/in-en/careers/jobsearch?jk=&sb=1&vw=0&is_rj=0&pg=1"
     },
     {
-        id:1,
+        id:3,
         postedOn: '2023-10-20',
         title: 'Android Developer',
         company: 'Apple',
@@ -33,7 +33,7 @@ export default [
         job_link: "https://www.apple.com/careers/in/"
     },
     {
-        id:1,
+        id:4,
         postedOn: '2023-10-21',
         title: 'Fullstack Developer',
         company: 'Amazon',
